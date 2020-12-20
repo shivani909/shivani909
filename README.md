@@ -9,5 +9,5 @@
 - 🤔 I’m looking for help with GetX
 - 💬 Ask me about Flutter | Dart
 - 📫 How to reach me: shivanipandeycontact@gmail.com
-- 😄 Pronouns: ... She/her
+- 😄 Pronouns: She/her
 - ⚡ Fun fact: If I could have any superpower, it would be a TECH-LORD.

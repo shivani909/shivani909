@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on Challenjo
 - 🌱 I’m currently learning Firebase
 - 👯 I’m looking to collaborate on open source Flutter project
-- 🤔 I’m looking for help with GetX
+- 🤔 I’m looking for guidance on GetX
 - 💬 Ask me about Flutter | Dart
 - 📫 How to reach me: shivanipandeycontact@gmail.com
 - 😄 Pronouns: She/her

@@ -3,11 +3,11 @@
 
 
 
-- 🔭 I’m currently working at Innokraft
-- 🌱 I’m currently learning State Management
+- 🔭 I’m currently working at BlueAccel Software
+- 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate on open source Flutter project
-- 🤔 I’m looking for guidance on RestApi
-- 💬 Ask me about Flutter | Dart
-- 📫 How to reach me: shivanipandeycontact@gmail.com
+- 🤔 I’m looking for guidance on MobX
+- 💬 Ask me about Flutter | Dart | Firebase
+- 📫 How to reach me: code.shivani09@gmail.com
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: If I could have any superpower, it would be a TECH-LORD.
+- ⚡ Fun fact: I'm an obsessed Otaku!

@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working at BlueAccel Software
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently learning Provider
 - 👯 I’m looking to collaborate on open source Flutter project
 - 🤔 I’m looking for guidance on MobX
 - 💬 Ask me about Flutter | Dart | Firebase

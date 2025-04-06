@@ -1,11 +1,18 @@
-### Hi there I'm Shivani 👋
+👋 Hi there! I'm a C++ Developer passionate about writing clean, efficient, and scalable code.
 
+🔧 Tech Stack:
+- 💻 Languages: C++, Dart, Java, Python
+- 🔍 Areas of Interest: Data Structures & Algorithms, Mobile Development(iOS/Android), Competitive Programming
+- ⚙️ Tools: Git, VS Code, Xcode, Android Studio
 
+🧠 Always learning about:
+- DSA, Swift/Flutter, Design Pattern, Memory Management
+- System Design & Object-Oriented Programming
 
+📚 Currently working on:
+- Solving DSA problems on LeetCode & Codeforces
+- Working on C++ and contributing to open-source C++ projects
 
-- 🔭 I’m currently working on a productivity app
-- 👯 I’m looking to collaborate on open source flutter project
-- 💬 Ask me about Flutter | Dart | Firebase | UI/UX
-- 📫 How to reach me: code.shivani09@gmail.com
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: 
+📬 Let's connect!
+- E-mail: code.shivani09@gmail.com
+
